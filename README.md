@@ -26,18 +26,14 @@ Welcome to my GitHub profile! I am a final-year AI/ML engineering student from I
 ### 🚦 AI-Based Traffic Management System
 A sophisticated solution using **YOLOv8** for real-time vehicle detection and traffic analysis. This system leverages predictive modeling to enhance urban traffic flow and management.
 
-### 🛡️ Social Media Content Moderation Platform
-An AI-driven moderation tool designed to detect and flag inappropriate content on social media. Utilizing **NLP** and **Machine Learning**, this project aims to improve community safety.
+### 🌱 Intelligent Bore Water indicater
+An AI-driven moderation tool designed to detect level of ground water and alert through the mobile application
 
-### 📰 Automated News Summarizer
-This project uses **Transformers (BERT)** to generate concise summaries of lengthy news articles, providing users with key insights efficiently.
 
----
 
 ## 📈 Areas of Interest and Expertise
 
 - 🧠 **Artificial Intelligence**: Specializing in predictive modeling and traffic management systems
-- 📊 **Data Science & Analysis**: Expertise in traffic data processing, vehicle detection, and trend analysis
 - 🌐 **Web Application Development**: Building and deploying scalable applications using Flask with integrated machine learning
 
 ---
